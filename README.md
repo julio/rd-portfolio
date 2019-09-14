@@ -13,3 +13,6 @@
 ## Finish setup
 - $ `python manage.py runserver`
 - $ `python manage.py migrate projects`
+
+## Admin page
+- $ `python manage.py createsuperuser`
