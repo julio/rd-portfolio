@@ -5,6 +5,7 @@
 - $ `pip install --upgrade pip`
 
 ## Finish setup
+- $ `python manage.py migrate`
 - $ `python manage.py migrate projects`
 - $ `python manage.py migrate blog`
 
