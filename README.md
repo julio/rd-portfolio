@@ -5,9 +5,9 @@
 - $ `pip install --upgrade pip`
 
 ## Finish setup
-- $ `python manage.py migrate`
-- $ `python manage.py migrate projects`
-- $ `python manage.py migrate blog`
+- $ `./manage.py migrate`
+- $ `./manage.py migrate projects`
+- $ `./manage.py migrate blog`
 
 ## Admin page
 - $ `python manage.py createsuperuser`
