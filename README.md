@@ -10,7 +10,7 @@
 - $ `./manage.py migrate blog`
 
 ## Admin page
-- $ `python manage.py createsuperuser`
+- $ `./manage.py createsuperuser`
 
 ## Run dev
 - $ `./manage.py runserver`
